@@ -1,0 +1,28 @@
+{
+  "id": "warehouse",
+  "name": "Warehouse (Sokoban)",
+  "year": 2007,
+  "genre": "Puzle",
+  "developer": "Martin Cameron",
+  "resolution": "240x320",
+  "jar": "/games/warehouse/game.jar",
+  "cover": "/games/warehouse/cover.svg",
+  "description": "El aclamado rompecabezas Sokoban transportado a Java Mobile. Empuja las cajas de madera hacia las marcas verdes en el almacén sin quedar atrapado en las esquinas.",
+  "size": "66 KB",
+  "phonePreset": "Nokia",
+  "compatibility": "Excelente (MIDP 2.0 / Nokia UI)",
+  "features": [
+    "Deshacer Movimiento",
+    "60+ Niveles",
+    "Bajo Consumo de Memoria",
+    "Diseño Minimalista"
+  ],
+  "defaultControls": {
+    "Arriba": "Flecha Arriba / W",
+    "Abajo": "Flecha Abajo / S",
+    "Izquierda": "Flecha Izquierda / A",
+    "Derecha": "Flecha Derecha / D",
+    "Empujar / Seleccionar": "Enter (Tecla 5)",
+    "Menú / Opciones": "F1 (Softkey Izq)"
+  }
+}

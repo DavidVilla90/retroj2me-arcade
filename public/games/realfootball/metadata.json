@@ -1,0 +1,27 @@
+{
+  "id": "realfootball",
+  "name": "Real Football 2012",
+  "year": 2011,
+  "genre": "Deportes",
+  "developer": "Gameloft Mobile",
+  "resolution": "240x320",
+  "jar": "/games/realfootball/game.jar",
+  "cover": "/games/realfootball/cover.svg",
+  "description": "Una de las joyas técnicas cumbre de la era Java ME. Gráficos detallados, torneos internacionales, comentarios en pantalla y jugabilidad arcade clásica de fútbol.",
+  "size": "377 KB",
+  "phonePreset": "SonyEricsson",
+  "compatibility": "Alta (MIDP 2.0 / Gameloft Engine)",
+  "features": [
+    "Copa Internacional",
+    "Pase y Disparo Rápido",
+    "Tiros Libres y Penales",
+    "Física de Balón"
+  ],
+  "defaultControls": {
+    "Mover Jugador": "Flechas o WASD",
+    "Pase Corto": "Tecla 5 o J",
+    "Disparo": "Tecla 0 o K",
+    "Entrada / Barrida": "Tecla 7 o U",
+    "Pausa / Tácticas": "F1 (Softkey Izq)"
+  }
+}

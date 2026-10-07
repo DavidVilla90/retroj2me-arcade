@@ -1,0 +1,26 @@
+{
+  "id": "connect4",
+  "name": "Connect 4 Mobile",
+  "year": 2006,
+  "genre": "Estrategia",
+  "developer": "Zb3 / J2ME Labs",
+  "resolution": "240x320",
+  "jar": "/games/connect4/game.jar",
+  "cover": "/games/connect4/cover.svg",
+  "description": "El clásico juego de mesa Cuatro en Línea adaptado para teléfonos Nokia Series 40 y 60. Juega contra la IA con fichas rojas y amarillas en pantalla completa.",
+  "size": "29 KB",
+  "phonePreset": "Nokia",
+  "compatibility": "Excelente (MIDP 2.0 / LCDUI Canvas)",
+  "features": [
+    "Inteligencia Artificial",
+    "Partida Rápida",
+    "Colores Contrastados",
+    "Pantalla 240x320"
+  ],
+  "defaultControls": {
+    "Mover Izquierda": "Flecha Izquierda / A (Tecla 4)",
+    "Mover Derecha": "Flecha Derecha / D (Tecla 6)",
+    "Soltar Ficha": "Enter / Espacio (Tecla 5)",
+    "Pausa": "F1 (Softkey Izq)"
+  }
+}

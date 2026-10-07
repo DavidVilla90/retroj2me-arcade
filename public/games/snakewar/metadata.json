@@ -1,0 +1,30 @@
+{
+  "id": "snakewar",
+  "name": "Snake War",
+  "year": 2009,
+  "genre": "Arcade",
+  "developer": "Rishabh Tripathi",
+  "resolution": "240x320",
+  "jar": "/games/snakewar/game.jar",
+  "jad": "/games/snakewar/game.jad",
+  "cover": "/games/snakewar/cover.svg",
+  "description": "La evolución del legendario clásico de Nokia. Cuenta con múltiples arenas, niveles desafiantes, serpientes rivales en combate por manzanas y power-ups tácticos.",
+  "size": "513 KB",
+  "phonePreset": "Nokia",
+  "compatibility": "Excelente (MIDP 2.0 / CLDC 1.1)",
+  "features": [
+    "Múltiples Arenas",
+    "Modo Desafío",
+    "Puntuaciones Altas",
+    "Animación Fluida"
+  ],
+  "defaultControls": {
+    "Arriba": "Flecha Arriba / W (Tecla 2)",
+    "Abajo": "Flecha Abajo / S (Tecla 8)",
+    "Izquierda": "Flecha Izquierda / A (Tecla 4)",
+    "Derecha": "Flecha Derecha / D (Tecla 6)",
+    "Aceptar / Fuego": "Enter / Espacio (Tecla 5)",
+    "Softkey Izq": "F1 / Q",
+    "Softkey Der": "F2 / E"
+  }
+}

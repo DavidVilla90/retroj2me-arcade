@@ -1,0 +1,6 @@
+{
+  "name": "J2ME Retro Arcade - Java Mobile Web Emulator",
+  "description": "Biblioteca y arcade retro para jugar videojuegos clásicos Java ME (.jar) de teléfonos Nokia, Sony Ericsson y Motorola directamente en el navegador sin plugins ni descargas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

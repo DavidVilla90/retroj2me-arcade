@@ -1,0 +1,26 @@
+{
+  "id": "kakuro",
+  "name": "Kakuro Logic Crosswords",
+  "year": 2008,
+  "genre": "Lógica",
+  "developer": "Mobile Logic Studio",
+  "resolution": "240x320",
+  "jar": "/games/kakuro/game.jar",
+  "cover": "/games/kakuro/cover.svg",
+  "description": "El famoso pasatiempo numérico japonés que conquistó los teléfonos de la era dorada de Java. Rellena las cuadrículas sumando los números indicados en cada pista diagonal.",
+  "size": "79 KB",
+  "phonePreset": "Nokia",
+  "compatibility": "Excelente (MIDP 2.0)",
+  "features": [
+    "Generador de Puzles",
+    "Entrada Teclado 1-9",
+    "Comprobación de Errores",
+    "RMS Save State"
+  ],
+  "defaultControls": {
+    "Navegar Cuadrícula": "Flechas de dirección",
+    "Ingresar Números": "Teclas 1 al 9",
+    "Borrar": "Retroceso / Tecla 0",
+    "Confirmar": "Enter (Tecla 5)"
+  }
+}

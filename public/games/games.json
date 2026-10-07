@@ -1,0 +1,114 @@
+[
+  {
+    "id": "snakewar",
+    "name": "Snake War",
+    "year": 2009,
+    "genre": "Arcade",
+    "developer": "Rishabh Tripathi",
+    "resolution": "240x320",
+    "jar": "/games/snakewar/game.jar",
+    "jad": "/games/snakewar/game.jad",
+    "cover": "/games/snakewar/cover.svg",
+    "description": "La evolución del legendario clásico de Nokia. Cuenta con múltiples arenas, niveles desafiantes, serpientes rivales en combate por manzanas y power-ups tácticos.",
+    "size": "513 KB",
+    "phonePreset": "Nokia",
+    "compatibility": "Excelente (MIDP 2.0 / CLDC 1.1)",
+    "features": ["Múltiples Arenas", "Modo Desafío", "Puntuaciones Altas", "Animación Fluida"],
+    "defaultControls": {
+      "Arriba": "Flecha Arriba / W (Tecla 2)",
+      "Abajo": "Flecha Abajo / S (Tecla 8)",
+      "Izquierda": "Flecha Izquierda / A (Tecla 4)",
+      "Derecha": "Flecha Derecha / D (Tecla 6)",
+      "Aceptar / Fuego": "Enter / Espacio (Tecla 5)",
+      "Softkey Izq": "F1 / Q",
+      "Softkey Der": "F2 / E"
+    }
+  },
+  {
+    "id": "warehouse",
+    "name": "Warehouse (Sokoban)",
+    "year": 2007,
+    "genre": "Puzle",
+    "developer": "Martin Cameron",
+    "resolution": "240x320",
+    "jar": "/games/warehouse/game.jar",
+    "cover": "/games/warehouse/cover.svg",
+    "description": "El aclamado rompecabezas Sokoban transportado a Java Mobile. Empuja las cajas de madera hacia las marcas verdes en el almacén sin quedar atrapado en las esquinas.",
+    "size": "66 KB",
+    "phonePreset": "Nokia",
+    "compatibility": "Excelente (MIDP 2.0 / Nokia UI)",
+    "features": ["Deshacer Movimiento", "60+ Niveles", "Bajo Consumo de Memoria", "Diseño Minimalista"],
+    "defaultControls": {
+      "Arriba": "Flecha Arriba / W",
+      "Abajo": "Flecha Abajo / S",
+      "Izquierda": "Flecha Izquierda / A",
+      "Derecha": "Flecha Derecha / D",
+      "Empujar / Seleccionar": "Enter (Tecla 5)",
+      "Menú / Opciones": "F1 (Softkey Izq)"
+    }
+  },
+  {
+    "id": "connect4",
+    "name": "Connect 4 Mobile",
+    "year": 2006,
+    "genre": "Estrategia",
+    "developer": "Zb3 / J2ME Labs",
+    "resolution": "240x320",
+    "jar": "/games/connect4/game.jar",
+    "cover": "/games/connect4/cover.svg",
+    "description": "El clásico juego de mesa Cuatro en Línea adaptado para teléfonos Nokia Series 40 y 60. Juega contra la IA con fichas rojas y amarillas en pantalla completa.",
+    "size": "29 KB",
+    "phonePreset": "Nokia",
+    "compatibility": "Excelente (MIDP 2.0 / LCDUI Canvas)",
+    "features": ["Inteligencia Artificial", "Partida Rápida", "Colores Contrastados", "Pantalla 240x320"],
+    "defaultControls": {
+      "Mover Izquierda": "Flecha Izquierda / A (Tecla 4)",
+      "Mover Derecha": "Flecha Derecha / D (Tecla 6)",
+      "Soltar Ficha": "Enter / Espacio (Tecla 5)",
+      "Pausa": "F1 (Softkey Izq)"
+    }
+  },
+  {
+    "id": "kakuro",
+    "name": "Kakuro Logic Crosswords",
+    "year": 2008,
+    "genre": "Lógica",
+    "developer": "Mobile Logic Studio",
+    "resolution": "240x320",
+    "jar": "/games/kakuro/game.jar",
+    "cover": "/games/kakuro/cover.svg",
+    "description": "El famoso pasatiempo numérico japonés que conquistó los teléfonos de la era dorada de Java. Rellena las cuadrículas sumando los números indicados en cada pista diagonal.",
+    "size": "79 KB",
+    "phonePreset": "Nokia",
+    "compatibility": "Excelente (MIDP 2.0)",
+    "features": ["Generador de Puzles", "Entrada Teclado 1-9", "Comprobación de Errores", "RMS Save State"],
+    "defaultControls": {
+      "Navegar Cuadrícula": "Flechas de dirección",
+      "Ingresar Números": "Teclas 1 al 9",
+      "Borrar": "Retroceso / Tecla 0",
+      "Confirmar": "Enter (Tecla 5)"
+    }
+  },
+  {
+    "id": "realfootball",
+    "name": "Real Football 2012",
+    "year": 2011,
+    "genre": "Deportes",
+    "developer": "Gameloft Mobile",
+    "resolution": "240x320",
+    "jar": "/games/realfootball/game.jar",
+    "cover": "/games/realfootball/cover.svg",
+    "description": "Una de las joyas técnicas cumbre de la era Java ME. Gráficos detallados, torneos internacionales, comentarios en pantalla y jugabilidad arcade clásica de fútbol.",
+    "size": "377 KB",
+    "phonePreset": "SonyEricsson",
+    "compatibility": "Alta (MIDP 2.0 / Gameloft Engine)",
+    "features": ["Copa Internacional", "Pase y Disparo Rápido", "Tiros Libres y Penales", "Física de Balón"],
+    "defaultControls": {
+      "Mover Jugador": "Flechas o WASD",
+      "Pase Corto": "Tecla 5 o J",
+      "Disparo": "Tecla 0 o K",
+      "Entrada / Barrida": "Tecla 7 o U",
+      "Pausa / Tácticas": "F1 (Softkey Izq)"
+    }
+  }
+]
